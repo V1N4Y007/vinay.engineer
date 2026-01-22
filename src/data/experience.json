@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "role": "Cyber Security Engineer",
+        "company": "COE Security LLC",
+        "duration": "Dec 2025 - Present",
+        "description": "Internship. Focused on Vulnerability Assessment, Cybersecurity, and Cyber Defense.",
+        "icon": "shield"
+    },
+    {
+        "id": 2,
+        "role": "Python Developer",
+        "company": "Cognifyz Technologies",
+        "duration": "May 2025 - May 2025",
+        "description": "Internship. Worked on Python programming and development tasks.",
+        "icon": "server"
+    },
+    {
+        "id": 3,
+        "role": "B.TECH, Information Technology",
+        "company": "CHARUSAT",
+        "duration": "Aug 2023 - Aug 2027",
+        "description": "Bachelor's Degree. Studying Algorithms, Programming Languages, and core IT subjects.",
+        "icon": "lock"
+    },
+    {
+        "id": 4,
+        "role": "High School, PCM",
+        "company": "B N Virani Science Academy",
+        "duration": "Jul 2021 - Mar 2023",
+        "description": "Completed Higher Secondary Education in Science stream.",
+        "icon": "lock"
+    }
+]

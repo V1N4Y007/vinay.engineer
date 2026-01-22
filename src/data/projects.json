@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "title": "Bug Bounty: XSS in FinTech App",
+        "description": "Discovered and reported a stored Cross-Site Scripting (XSS) vulnerability in a major FinTech application. The flaw allowed attackers to inject malicious scripts into transaction notes.",
+        "tags": [
+            "Bug Bounty",
+            "Web Sec",
+            "XSS"
+        ],
+        "links": {
+            "details": "#",
+            "github": "#"
+        },
+        "highlight": true
+    },
+    {
+        "id": 2,
+        "title": "Network Intrusion Detection System",
+        "description": "Built a custom IDS using Python and Scapy to detect potential port scanning and ARP spoofing attacks within a local network.",
+        "tags": [
+            "Python",
+            "Network Sec",
+            "Automation"
+        ],
+        "links": {
+            "details": "#",
+            "github": "#"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Secure Chat Application",
+        "description": "Developed an end-to-end encrypted chat application using React, Node.js, and Signal Protocol implementation for message security.",
+        "tags": [
+            "Cryptography",
+            "React",
+            "Node.js"
+        ],
+        "links": {
+            "details": "#",
+            "github": "#"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Automated Recon Tool",
+        "description": "A Bash script wrapper that ties together Nmap, Gobuster, and Nikto to automate the initial reconnaissance phase of penetration testing.",
+        "tags": [
+            "Bash",
+            "Pentesting",
+            "Automation"
+        ],
+        "links": {
+            "details": "#",
+            "github": "#"
+        }
+    }
+]
